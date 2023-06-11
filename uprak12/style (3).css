@@ -1,0 +1,92 @@
+/* INDEX */
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+.bgcolor {
+  background-color: #dfe9f4;
+  padding: 50px;
+  height: 100vh;
+}
+
+.vhset {
+  margin-top: 70px;
+}
+
+.hero {
+  height: 100vh;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 35px;
+}
+
+.hero-title {
+  color: #054c73;
+}
+
+.hero-text {
+  color: #333333;
+  font-weight: 500;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  text-align: justify;
+  font-size: 18px;
+  word-spacing: 1.5px;
+}
+
+.img-set {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.img-set2 {
+  width: 40%;
+  border-radius: 10px;
+}
+
+.button-hero {
+  background-color: #054c73;
+  color: #fff;
+  border: none;
+  padding: 9px;
+  border-radius: 8px;
+}
+
+.buku-section {
+  margin-top: 70px;
+}
+
+.col {
+  margin: 60px 0px;
+}
+
+.box {
+  background-color: #377991;
+  padding: 25px 40px;
+  border-radius: 9px;
+}
+
+.buku-title {
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.desc {
+  color: #fff;
+  text-align: justify;
+}
+
+.button-desc {
+  margin-top: 18px;
+  /* color: #fff; */
+  border: none;
+  padding: 9px;
+  border-radius: 8px;
+}
+
+/* LOGIN */
